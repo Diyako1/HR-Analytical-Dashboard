@@ -1,4 +1,4 @@
- Dynamic HR Analytics Dashboard - Diyako Gilibagu
+## Dynamic HR Analytics Dashboard - Diyako Gilibagu
 
 > **An interactive Tableau dashboard highlighting workforce metrics—headcount, attrition, diversity, and performance—through intuitive KPIs and drill-down analysis.**
 
